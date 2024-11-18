@@ -2,7 +2,6 @@
 
 https://raw.githubusercontent.com/aniruddhachoudhury/Red-Wine-Quality/master/winequality-red.csv
 
-'''
 fixed acidity（固定酸度）
 固定酸是葡萄酒中主要的酸類（例如酒石酸、蘋果酸），其濃度在發酵過程中不會大幅改變。這些酸對葡萄酒的口感有重要影響。
 
@@ -38,4 +37,3 @@ alcohol（酒精濃度）
 
 quality（品質評分）
 對葡萄酒的品質評估分數，範圍為 0 到 10（通常為 3 到 8）。這是一個由品酒師基於感官分析評定的整體評分。
-'''
